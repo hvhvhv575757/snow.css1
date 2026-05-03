@@ -1,4 +1,5 @@
-# snow.css1body::before {
+# snow.css1
+body::before {
   content: "";
   position: fixed;
   top: -100%;
